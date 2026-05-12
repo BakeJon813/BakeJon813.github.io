@@ -9,7 +9,7 @@
 <h>The Ball and Wobbly Line </h>
 -------------------------------------------------
 <img width="400" height="433" alt="Screenshot 2026-04-05 230052" src="https://github.com/user-attachments/assets/64a519af-ed48-4a8b-860e-ff60d3abfde2" />
-<p>This is a small expiriment done in Processing that makes a ball track your mouse perfectly while a line attempts to awkwardly by wobbling.</p>
+<p>This is a small expiriment done in Processing that makes a ball track your mouse perfectly as the line attempts to awkwardly by wobbling. Although it isn't the best I enjoyed making it. </p>
 -------------------------------------------------
 
 -------------------------------------------------
