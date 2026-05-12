@@ -5,7 +5,7 @@
 <p> This is my final project for coding class. The project lightly touches on some of the increases in price we've been seeing specifically college expenses. The hardest part of this project was the info gathering as finding clear stats was difficult to do but I used a website provided by my highscool, (collegeboard) and searched for the data regaurding the general price of college over the years. In my search I also found some amazing articles about price increases and the importance of providing schools with enough funding.</p>
 
 The Ball and Wobbly Line
-<img width="400" height="933" alt="Screenshot 2026-04-05 230052" src="https://github.com/user-attachments/assets/64a519af-ed48-4a8b-860e-ff60d3abfde2" />
+<img width="400" height="433" alt="Screenshot 2026-04-05 230052" src="https://github.com/user-attachments/assets/64a519af-ed48-4a8b-860e-ff60d3abfde2" />
 This is a small expiriment done in Processing that makes a ball track your mouse perfectly while a line attempts to awkwardly by wobbling.
 
 
